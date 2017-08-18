@@ -1,1 +1,3 @@
-Like BlackList.
+WhiteList contains these stocks which price went up and would continue going up.
+WhiteList Folder contains data analysis folder and quantization strategy folder.
+data analysis folder contains python codes for stock data analysis, quantization strategy folder contains python codes for stock trade strategy.
